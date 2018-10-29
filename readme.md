@@ -90,7 +90,7 @@ Resource URI: http://pixabay.com/en/office-tax-business-finance-620822/</br>
 License: CC0 1.0</br>
 License URI: http://creativecommons.org/publicdomain/zero/1.0/deed.en</br>
 
-####m2) Image 2
+#### m2) Image 2
 Copyright: FirmBee</br>
 Resource URI: http://pixabay.com/en/smartphone-photo-phone-mobile-623722/</br>
 License: CC0 1.0</br>
